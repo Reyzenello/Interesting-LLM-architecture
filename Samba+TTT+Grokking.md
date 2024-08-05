@@ -6,3 +6,4 @@ The proposal arhitecture has come up by reviewing the last papers which introduc
 
 The architecture has been shared to EurekaLabs and lucidrains to have some help hehe
 
+![image](https://github.com/user-attachments/assets/ac98a99e-1119-406d-98d1-37f61fc1969f)
